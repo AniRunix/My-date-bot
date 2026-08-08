@@ -61,7 +61,7 @@ def calculate_message(saved_date_str: str) -> str:
     delta_days = (today - start_date).days
     days_word = get_days_word(delta_days)
 
-    return f"привет, киса, сегодня нам {delta_days} {days_word}"
+    return f"привет кисуля💕💕 сегодня нам {delta_days} {days_word} Люблю тебя, котя💕❤️"
 
 # --- Фоновая рассылка в 00:00 по МСК+3 ---
 
